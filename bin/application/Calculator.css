@@ -1,3 +1,10 @@
+/*
+ * The following code represents the colors of the .root (background of the calculator),
+ * .button (clickable buttons), and .text(the operations and answer screen).
+ * Author: Andy
+ * Since: 8/27/2021
+ */
+
 .root {
 	-fx-background-color: #383838;
 	-fx-font-size: 10pt;
