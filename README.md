@@ -8,7 +8,7 @@ Work in progress simple calculator using JavaFX libraries
   Multiplication,
   Values 0 -> 9,
   Clear,
-  Enter,
+  and Enter
   
 Each expression inputed into the calculator's screen is set up using the ArrayList class in Java (resizeable array) and the
 calculator follows the current evaluation setup: Division first, Multiplication second, Subtraction third, and addition fourth.
