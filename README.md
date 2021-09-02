@@ -1,5 +1,5 @@
 # Simple-Calculator
-Work in progress simple calculator using JavaFX libraries
+Simple calculator using JavaFX libraries
 
 - The GUI system that represents the calculator is built using scenebuilder. It contains the following current options:
   Addition,
